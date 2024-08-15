@@ -1,0 +1,3 @@
+/home/kok/CLionProjects/advanced_cpp/cmake-build-debug/CMakeFiles/advanced_cpp.dir
+/home/kok/CLionProjects/advanced_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kok/CLionProjects/advanced_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
