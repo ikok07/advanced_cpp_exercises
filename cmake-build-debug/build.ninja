@@ -127,6 +127,30 @@ build CMakeFiles/advanced_cpp.dir/projects/file_streams/search_from_text.cpp.o: 
   OBJECT_DIR = CMakeFiles/advanced_cpp.dir
   OBJECT_FILE_DIR = CMakeFiles/advanced_cpp.dir/projects/file_streams
 
+build CMakeFiles/advanced_cpp.dir/projects/file_streams/write_to_text_file.cpp.o: CXX_COMPILER__advanced_cpp_unscanned_Debug /home/kok/CLionProjects/advanced_cpp/projects/file_streams/write_to_text_file.cpp || cmake_object_order_depends_target_advanced_cpp
+  DEP_FILE = CMakeFiles/advanced_cpp.dir/projects/file_streams/write_to_text_file.cpp.o.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/advanced_cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/advanced_cpp.dir/projects/file_streams
+
+build CMakeFiles/advanced_cpp.dir/projects/array/array.cpp.o: CXX_COMPILER__advanced_cpp_unscanned_Debug /home/kok/CLionProjects/advanced_cpp/projects/array/array.cpp || cmake_object_order_depends_target_advanced_cpp
+  DEP_FILE = CMakeFiles/advanced_cpp.dir/projects/array/array.cpp.o.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/advanced_cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/advanced_cpp.dir/projects/array
+
+build CMakeFiles/advanced_cpp.dir/projects/palindrome/is_palindrome.cpp.o: CXX_COMPILER__advanced_cpp_unscanned_Debug /home/kok/CLionProjects/advanced_cpp/projects/palindrome/is_palindrome.cpp || cmake_object_order_depends_target_advanced_cpp
+  DEP_FILE = CMakeFiles/advanced_cpp.dir/projects/palindrome/is_palindrome.cpp.o.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/advanced_cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/advanced_cpp.dir/projects/palindrome
+
+build CMakeFiles/advanced_cpp.dir/projects/music_player/music_player.cpp.o: CXX_COMPILER__advanced_cpp_unscanned_Debug /home/kok/CLionProjects/advanced_cpp/projects/music_player/music_player.cpp || cmake_object_order_depends_target_advanced_cpp
+  DEP_FILE = CMakeFiles/advanced_cpp.dir/projects/music_player/music_player.cpp.o.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/advanced_cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/advanced_cpp.dir/projects/music_player
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target advanced_cpp
@@ -135,7 +159,7 @@ build CMakeFiles/advanced_cpp.dir/projects/file_streams/search_from_text.cpp.o: 
 #############################################
 # Link the executable advanced_cpp
 
-build advanced_cpp: CXX_EXECUTABLE_LINKER__advanced_cpp_Debug CMakeFiles/advanced_cpp.dir/main.cpp.o CMakeFiles/advanced_cpp.dir/projects/pyramide.cpp.o CMakeFiles/advanced_cpp.dir/projects/movies/Movie.cpp.o CMakeFiles/advanced_cpp.dir/projects/movies/Movies.cpp.o CMakeFiles/advanced_cpp.dir/projects/operator_overloading/Mystring.cpp.o CMakeFiles/advanced_cpp.dir/projects/accounts/Account_Util.cpp.o CMakeFiles/advanced_cpp.dir/projects/accounts/Savings_Account.cpp.o CMakeFiles/advanced_cpp.dir/projects/accounts/Account.cpp.o CMakeFiles/advanced_cpp.dir/projects/accounts/Checking_Account.cpp.o CMakeFiles/advanced_cpp.dir/projects/accounts/Trust_Account.cpp.o CMakeFiles/advanced_cpp.dir/projects/printable/I_Printable.cpp.o CMakeFiles/advanced_cpp.dir/projects/file_streams/read_from_text_file.cpp.o CMakeFiles/advanced_cpp.dir/projects/file_streams/search_from_text.cpp.o
+build advanced_cpp: CXX_EXECUTABLE_LINKER__advanced_cpp_Debug CMakeFiles/advanced_cpp.dir/main.cpp.o CMakeFiles/advanced_cpp.dir/projects/pyramide.cpp.o CMakeFiles/advanced_cpp.dir/projects/movies/Movie.cpp.o CMakeFiles/advanced_cpp.dir/projects/movies/Movies.cpp.o CMakeFiles/advanced_cpp.dir/projects/operator_overloading/Mystring.cpp.o CMakeFiles/advanced_cpp.dir/projects/accounts/Account_Util.cpp.o CMakeFiles/advanced_cpp.dir/projects/accounts/Savings_Account.cpp.o CMakeFiles/advanced_cpp.dir/projects/accounts/Account.cpp.o CMakeFiles/advanced_cpp.dir/projects/accounts/Checking_Account.cpp.o CMakeFiles/advanced_cpp.dir/projects/accounts/Trust_Account.cpp.o CMakeFiles/advanced_cpp.dir/projects/printable/I_Printable.cpp.o CMakeFiles/advanced_cpp.dir/projects/file_streams/read_from_text_file.cpp.o CMakeFiles/advanced_cpp.dir/projects/file_streams/search_from_text.cpp.o CMakeFiles/advanced_cpp.dir/projects/file_streams/write_to_text_file.cpp.o CMakeFiles/advanced_cpp.dir/projects/array/array.cpp.o CMakeFiles/advanced_cpp.dir/projects/palindrome/is_palindrome.cpp.o CMakeFiles/advanced_cpp.dir/projects/music_player/music_player.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/advanced_cpp.dir
   POST_BUILD = :

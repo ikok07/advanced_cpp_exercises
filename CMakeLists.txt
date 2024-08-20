@@ -25,4 +25,8 @@ add_executable(advanced_cpp main.cpp
         projects/exceptions/IllegalBalanceException.hpp
         projects/exceptions/InsufficentFundsException.hpp
         projects/file_streams/read_from_text_file.cpp
-        projects/file_streams/search_from_text.cpp)
+        projects/file_streams/search_from_text.cpp
+        projects/file_streams/write_to_text_file.cpp
+        projects/array/array.cpp
+        projects/palindrome/is_palindrome.cpp
+        projects/music_player/music_player.cpp)
